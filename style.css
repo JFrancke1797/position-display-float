@@ -107,7 +107,7 @@ body {
 }
 
 .inline-element {
-    /* display: block */
+    display: block
 }
 
 .inline-block {
